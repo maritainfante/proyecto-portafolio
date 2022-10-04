@@ -1,5 +1,3 @@
-# proyecto-portafolio
-Portafolio
 # coder-clase-github
 <h1 align="center">Hola 👋, Soy María Eliana Infante Izquierdo</h1>
 <h3 align="center">Soy diseñadora integral de la Universidad Católica, especializada en diseño UX/UI</h3>
